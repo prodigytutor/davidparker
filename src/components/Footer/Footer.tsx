@@ -14,7 +14,7 @@ const Footer = () => {
             {/* About Us */}
             <div className="flex flex-col text-white col-span-2">
               <div className="text-lg font-semibold mb-4">
-                <h1>Syeda Maham Fahim</h1>
+                <h1>David Parker</h1>
               </div>
               <div className="flex mt-4 md:mt-0">
                 <div className="flex">

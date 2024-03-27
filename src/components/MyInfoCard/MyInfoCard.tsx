@@ -16,11 +16,11 @@ const MyInfoCard = () => {
                         quality={100}
                         className='rounded-full'
                         src={ProfilePic}
-                        alt='Syeda Maham Fahim'
+                        alt='David Parker'
                     />
                 </div>
                 <div className='ml-5'>
-                    <h4 className='font-bold'>Syeda Maham Fahim 🇵🇰</h4>
+                    <h4 className='font-bold'>David Parker</h4>
                     <p className='line-clamp-1 text-xl'>💻 ✍ ℡ 🚀⚡️ </p>
                 </div>
                 
@@ -43,7 +43,7 @@ const MyInfoCard = () => {
                     </span>
                 </Link>
                 <a
-                    href='https://www.linkedin.com/in/syedamahamfahim/'
+                    href='https://www.linkedin.com/in/prodigytutors/'
                     target='_blank'
                     aria-label={`EXPERIENCE`}
                     rel='noopener noreferrer'
