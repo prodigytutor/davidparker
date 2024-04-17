@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     openGraph: {
         title: WEBSITE_NAME,
         description: META_DESCRIPTION,
-        url: 'https://www.devpair.online',
+        url: 'https://davidparker.whoami.click',
         siteName: WEBSITE_NAME,
         images: [
           {

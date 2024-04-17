@@ -1,6 +1,6 @@
 export const WEBSITE_NAME: string = "David Parker";
 export const WEBSITE_URL: string =
-  "https://syedamaham.dev";
+  "https://davidparker.whoami.click";
 
 
 export const LOGO:string="David Parker"
